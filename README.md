@@ -1,7 +1,7 @@
 ```bash
-Grafana
-````
+Kubernetes Grafana Installation
+```
 
 ```bash
-Prometheus
-````
+Kubernetes Prometheus Installation
+```
